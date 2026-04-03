@@ -4,4 +4,4 @@
 
 **test_oss**
 
-*teat_oss*
+*test_oss*
